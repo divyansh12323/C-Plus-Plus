@@ -1,5 +1,12 @@
 var NAVTREEINDEX5 =
 {
+"dd/d0d/insertion__sort_8cpp.html":[8,0,16,5],
+"dd/d0d/insertion__sort_8cpp.html#a59914553f24088342c139645a02a8a49":[8,0,16,5,0],
+"dd/d0d/insertion__sort_8cpp.html#a78cb2f3b97b6db2c062b2a1df05c9ea9":[8,0,16,5,2],
+"dd/d0d/insertion__sort_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[8,0,16,5,4],
+"dd/d0d/insertion__sort_8cpp.html#a8fe6bac9e03f58abcc2ce26ef3de1b5f":[8,0,16,5,1],
+"dd/d0d/insertion__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,16,5,3],
+"dd/d12/vigenere__cipher_8cpp.html":[8,0,1,2],
 "dd/d12/vigenere__cipher_8cpp.html#a3cfc3f9b20a0f230a2fcefd31dc6848e":[8,0,1,2,0],
 "dd/d12/vigenere__cipher_8cpp.html#a6bd3880ea6820c232c1eddf47553c257":[8,0,1,2,1],
 "dd/d12/vigenere__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,1,2,3],
@@ -48,8 +55,8 @@ var NAVTREEINDEX5 =
 "dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,11,6,2],
 "dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,11,6,0],
 "dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[8,0,11,6,1],
-"dd/d69/namespacerange__queries.html":[7,0,9],
 "dd/d69/namespacerange__queries.html":[6,0,29],
+"dd/d69/namespacerange__queries.html":[7,0,9],
 "dd/d81/namespacecaesar.html":[6,0,2],
 "dd/d91/class_fenwick_tree.html":[7,0,18],
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[7,0,18,4],
@@ -213,8 +220,8 @@ var NAVTREEINDEX5 =
 "dir_ece9b94c107bbaa1dd68197a8c9983b9.html":[8,0,8],
 "dir_f1797d0c2a0a12033e7d74efffeb14e1.html":[8,0,2,0],
 "files.html":[8,0],
-"functions.html":[7,3,0],
 "functions.html":[7,3,0,0],
+"functions.html":[7,3,0],
 "functions_a.html":[7,3,0,1],
 "functions_b.html":[7,3,0,2],
 "functions_c.html":[7,3,0,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX5 =
 "functions_vars.html":[7,3,2],
 "functions_w.html":[7,3,0,22],
 "functions_x.html":[7,3,0,23],
-"functions_y.html":[7,3,0,24],
-"functions_~.html":[7,3,0,25],
-"globals.html":[8,1,0],
-"globals.html":[8,1,0,0],
-"globals_a.html":[8,1,0,1],
-"globals_b.html":[8,1,0,2],
-"globals_c.html":[8,1,0,3],
-"globals_d.html":[8,1,0,4]
+"functions_y.html":[7,3,0,24]
 };
